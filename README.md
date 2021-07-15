@@ -17,13 +17,3 @@ Actualmente vivo en Paraguay y trabajo en [Fundación Paraguaya](http://www.fund
  Si te interesa, algunas veces trato de escribir cosas en mi [blog](https://anservin.com/blog/).
 
 ---
-
-### 📈 Mis estadísticas en Github
-
-<p>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AGTO93&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&locale=es" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGTO93&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=es"/>
-</p>
-
-
-
